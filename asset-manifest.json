@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starbucks/static/css/main.66bfcb23.chunk.css",
+    "main.js": "/starbucks/static/js/main.670bd6b5.chunk.js",
+    "main.js.map": "/starbucks/static/js/main.670bd6b5.chunk.js.map",
+    "runtime-main.js": "/starbucks/static/js/runtime-main.78174637.js",
+    "runtime-main.js.map": "/starbucks/static/js/runtime-main.78174637.js.map",
+    "static/js/2.fe900b72.chunk.js": "/starbucks/static/js/2.fe900b72.chunk.js",
+    "static/js/2.fe900b72.chunk.js.map": "/starbucks/static/js/2.fe900b72.chunk.js.map",
+    "index.html": "/starbucks/index.html",
+    "precache-manifest.89de19b1f4cc406bd47d4783d8752c69.js": "/starbucks/precache-manifest.89de19b1f4cc406bd47d4783d8752c69.js",
+    "service-worker.js": "/starbucks/service-worker.js",
+    "static/css/main.66bfcb23.chunk.css.map": "/starbucks/static/css/main.66bfcb23.chunk.css.map",
+    "static/js/2.fe900b72.chunk.js.LICENSE.txt": "/starbucks/static/js/2.fe900b72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78174637.js",
+    "static/js/2.fe900b72.chunk.js",
+    "static/css/main.66bfcb23.chunk.css",
+    "static/js/main.670bd6b5.chunk.js"
+  ]
+}
